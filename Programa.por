@@ -18,7 +18,7 @@ programa {
   }
   funcao menuRemoveItem(){
 
-     escreva("--- REMOVER ITEM DO CARRINHO ---\n")
+    escreva("--- REMOVER ITEM DO CARRINHO ---\n")
     escreva("1. Remover todas as Camisas\n")
     escreva("2. Remover todos os Bonés\n")
     escreva("3. Remover todos os Tênis\n")
