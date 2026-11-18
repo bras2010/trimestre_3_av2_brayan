@@ -4,7 +4,7 @@ programa {
    menuPrincipal() 
   }
 
-    funcao menuPrincipal() {
+  funcao menuPrincipal() {
     
        escreva("=== BEM-VINDO À NOSSA LOJA VIRTUAL ===\n")
     escreva("---------------------------------------\n")
@@ -16,4 +16,14 @@ programa {
     escreva("0. Finalizar compra e ir ao pagamento\n")
      
   }
+  funcao menuRemoveItem(){
+
+     escreva("--- REMOVER ITEM DO CARRINHO ---\n")
+    escreva("1. Remover todas as Camisas\n")
+    escreva("2. Remover todos os Bonés\n")
+    escreva("3. Remover todos os Tênis\n")
+    escreva("Escolha qual produto remover completamente: ")
+
+  }
+
 }
