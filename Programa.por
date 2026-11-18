@@ -1,9 +1,7 @@
 programa {
   
   funcao inicio() {
-   menuPrincipal()
-
-    
+   menuPrincipal() 
   }
 
     funcao menuPrincipal() {
@@ -16,10 +14,6 @@ programa {
     escreva("3. Alterar a quantidade no carrinho (UPDATE)\n")
     escreva("4. remover item do carrinho (DELETE)\n")
     escreva("0. Finalizar compra e ir ao pagamento\n")
-    
-
-
-
-    
+     
   }
 }
