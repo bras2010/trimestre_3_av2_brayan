@@ -5,7 +5,8 @@ programa {
   }
 
   funcao menuPrincipal() {
-    
+         menuRemoveItem()
+         
        escreva("=== BEM-VINDO À NOSSA LOJA VIRTUAL ===\n")
     escreva("---------------------------------------\n")
     escreva("MENU PRINCIPAL\n")
