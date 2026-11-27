@@ -74,6 +74,7 @@ programa {
 					leia(tecla_pausa)
    }
 
+
    funcao ver_carrinho(){
     limpa()
 					escreva("--- MEU CARRINHO DE COMPRAS ---\n")
